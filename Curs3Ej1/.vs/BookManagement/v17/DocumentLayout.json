@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\usuario\\OneDrive\\Escritorio\\IASI\\Introduction to .Net\\Curs3Ej1\\Curs3Ej1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA09918D-BF20-4537-8CE2-97CFCE6B604B}|Curs3Ej1\\Curs3Ej1.csproj|c:\\users\\usuario\\onedrive\\escritorio\\iasi\\introduction to .net\\curs3ej1\\curs3ej1\\curs3ej1\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA09918D-BF20-4537-8CE2-97CFCE6B604B}|Curs3Ej1\\Curs3Ej1.csproj|solutionrelative:curs3ej1\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{466708A4-C989-4BDC-AF11-F99DFBED4556}|Infrastructure\\Infrastructure.csproj|c:\\users\\usuario\\onedrive\\escritorio\\iasi\\introduction to .net\\curs3ej1\\curs3ej1\\infrastructure\\migrations\\20241125191319_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{466708A4-C989-4BDC-AF11-F99DFBED4556}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20241125191319_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA09918D-BF20-4537-8CE2-97CFCE6B604B}|Curs3Ej1\\Curs3Ej1.csproj|c:\\users\\usuario\\onedrive\\escritorio\\iasi\\introduction to .net\\curs3ej1\\curs3ej1\\curs3ej1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DA09918D-BF20-4537-8CE2-97CFCE6B604B}|Curs3Ej1\\Curs3Ej1.csproj|solutionrelative:curs3ej1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA09918D-BF20-4537-8CE2-97CFCE6B604B}|Curs3Ej1\\BookManagement.csproj|c:\\users\\usuario\\onedrive\\escritorio\\iasi\\introduction to .net\\curs3ej1\\curs3ej1\\curs3ej1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA09918D-BF20-4537-8CE2-97CFCE6B604B}|Curs3Ej1\\BookManagement.csproj|solutionrelative:curs3ej1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013C6F57-91EA-459A-93C2-55DA784F446A}|Application\\Application.csproj|c:\\users\\usuario\\onedrive\\escritorio\\iasi\\introduction to .net\\curs3ej1\\curs3ej1\\application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013C6F57-91EA-459A-93C2-55DA784F446A}|Application\\Application.csproj|solutionrelative:application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{466708A4-C989-4BDC-AF11-F99DFBED4556}|Infrastructure\\Infrastructure.csproj|c:\\users\\usuario\\onedrive\\escritorio\\iasi\\introduction to .net\\curs3ej1\\curs3ej1\\infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{466708A4-C989-4BDC-AF11-F99DFBED4556}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013C6F57-91EA-459A-93C2-55DA784F446A}|Application\\Application.csproj|c:\\users\\usuario\\onedrive\\escritorio\\iasi\\introduction to .net\\curs3ej1\\curs3ej1\\application\\use cases\\commandhandlers\\createbookcommandhandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013C6F57-91EA-459A-93C2-55DA784F446A}|Application\\Application.csproj|solutionrelative:application\\use cases\\commandhandlers\\createbookcommandhandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{466708A4-C989-4BDC-AF11-F99DFBED4556}|Infrastructure\\Infrastructure.csproj|c:\\users\\usuario\\onedrive\\escritorio\\iasi\\introduction to .net\\curs3ej1\\curs3ej1\\infrastructure\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{466708A4-C989-4BDC-AF11-F99DFBED4556}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{466708A4-C989-4BDC-AF11-F99DFBED4556}|Infrastructure\\Infrastructure.csproj|c:\\users\\usuario\\onedrive\\escritorio\\iasi\\introduction to .net\\curs3ej1\\curs3ej1\\infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{466708A4-C989-4BDC-AF11-F99DFBED4556}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013C6F57-91EA-459A-93C2-55DA784F446A}|Application\\Application.csproj|c:\\users\\usuario\\onedrive\\escritorio\\iasi\\introduction to .net\\curs3ej1\\curs3ej1\\application\\use cases\\commands\\createbookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013C6F57-91EA-459A-93C2-55DA784F446A}|Application\\Application.csproj|solutionrelative:application\\use cases\\commands\\createbookcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013C6F57-91EA-459A-93C2-55DA784F446A}|Application\\Application.csproj|c:\\users\\usuario\\onedrive\\escritorio\\iasi\\introduction to .net\\curs3ej1\\curs3ej1\\application\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013C6F57-91EA-459A-93C2-55DA784F446A}|Application\\Application.csproj|solutionrelative:application\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F17BCB5B-582B-4134-87C4-1DE43EDAF618}|Domain\\Domain.csproj|c:\\users\\usuario\\onedrive\\escritorio\\iasi\\introduction to .net\\curs3ej1\\curs3ej1\\domain\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F17BCB5B-582B-4134-87C4-1DE43EDAF618}|Domain\\Domain.csproj|solutionrelative:domain\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F17BCB5B-582B-4134-87C4-1DE43EDAF618}|Domain\\Domain.csproj|c:\\users\\usuario\\onedrive\\escritorio\\iasi\\introduction to .net\\curs3ej1\\curs3ej1\\domain\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F17BCB5B-582B-4134-87C4-1DE43EDAF618}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20241125191319_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\OneDrive\\Escritorio\\IASI\\Introduction to .Net\\Curs3Ej1\\Curs3Ej1\\Infrastructure\\Migrations\\20241125191319_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20241125191319_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\usuario\\OneDrive\\Escritorio\\IASI\\Introduction to .Net\\Curs3Ej1\\Curs3Ej1\\Infrastructure\\Migrations\\20241125191319_InitialCreate.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20241125191319_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T19:13:19.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\OneDrive\\Escritorio\\IASI\\Introduction to .Net\\Curs3Ej1\\Curs3Ej1\\Curs3Ej1\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Curs3Ej1\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\usuario\\OneDrive\\Escritorio\\IASI\\Introduction to .Net\\Curs3Ej1\\Curs3Ej1\\Curs3Ej1\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Curs3Ej1\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T19:18:51.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\usuario\\OneDrive\\Escritorio\\IASI\\Introduction to .Net\\Curs3Ej1\\Curs3Ej1\\Curs3Ej1\\appsettings.json",
+              "RelativeDocumentMoniker": "Curs3Ej1\\appsettings.json",
+              "ToolTip": "C:\\Users\\usuario\\OneDrive\\Escritorio\\IASI\\Introduction to .Net\\Curs3Ej1\\Curs3Ej1\\Curs3Ej1\\appsettings.json",
+              "RelativeToolTip": "Curs3Ej1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-25T19:01:42.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\OneDrive\\Escritorio\\IASI\\Introduction to .Net\\Curs3Ej1\\Curs3Ej1\\Curs3Ej1\\Program.cs",
+              "RelativeDocumentMoniker": "Curs3Ej1\\Program.cs",
+              "ToolTip": "C:\\Users\\usuario\\OneDrive\\Escritorio\\IASI\\Introduction to .Net\\Curs3Ej1\\Curs3Ej1\\Curs3Ej1\\Program.cs",
+              "RelativeToolTip": "Curs3Ej1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T23:16:18.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\OneDrive\\Escritorio\\IASI\\Introduction to .Net\\Curs3Ej1\\Curs3Ej1\\Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Application\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\usuario\\OneDrive\\Escritorio\\IASI\\Introduction to .Net\\Curs3Ej1\\Curs3Ej1\\Application\\DependencyInjection.cs",
+              "RelativeToolTip": "Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T18:56:26.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\OneDrive\\Escritorio\\IASI\\Introduction to .Net\\Curs3Ej1\\Curs3Ej1\\Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\usuario\\OneDrive\\Escritorio\\IASI\\Introduction to .Net\\Curs3Ej1\\Curs3Ej1\\Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T18:50:43.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateBookCommandHandlers.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\OneDrive\\Escritorio\\IASI\\Introduction to .Net\\Curs3Ej1\\Curs3Ej1\\Application\\Use Cases\\CommandHandlers\\CreateBookCommandHandlers.cs",
+              "RelativeDocumentMoniker": "Application\\Use Cases\\CommandHandlers\\CreateBookCommandHandlers.cs",
+              "ToolTip": "C:\\Users\\usuario\\OneDrive\\Escritorio\\IASI\\Introduction to .Net\\Curs3Ej1\\Curs3Ej1\\Application\\Use Cases\\CommandHandlers\\CreateBookCommandHandlers.cs",
+              "RelativeToolTip": "Application\\Use Cases\\CommandHandlers\\CreateBookCommandHandlers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T18:56:13.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\OneDrive\\Escritorio\\IASI\\Introduction to .Net\\Curs3Ej1\\Curs3Ej1\\Infrastructure\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\usuario\\OneDrive\\Escritorio\\IASI\\Introduction to .Net\\Curs3Ej1\\Curs3Ej1\\Infrastructure\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\BookRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T18:54:30.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\OneDrive\\Escritorio\\IASI\\Introduction to .Net\\Curs3Ej1\\Curs3Ej1\\Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\usuario\\OneDrive\\Escritorio\\IASI\\Introduction to .Net\\Curs3Ej1\\Curs3Ej1\\Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T23:05:56.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateBookCommand.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\OneDrive\\Escritorio\\IASI\\Introduction to .Net\\Curs3Ej1\\Curs3Ej1\\Application\\Use Cases\\Commands\\CreateBookCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Use Cases\\Commands\\CreateBookCommand.cs",
+              "ToolTip": "C:\\Users\\usuario\\OneDrive\\Escritorio\\IASI\\Introduction to .Net\\Curs3Ej1\\Curs3Ej1\\Application\\Use Cases\\Commands\\CreateBookCommand.cs",
+              "RelativeToolTip": "Application\\Use Cases\\Commands\\CreateBookCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T22:50:22.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookDto.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\OneDrive\\Escritorio\\IASI\\Introduction to .Net\\Curs3Ej1\\Curs3Ej1\\Application\\DTOs\\BookDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\BookDto.cs",
+              "ToolTip": "C:\\Users\\usuario\\OneDrive\\Escritorio\\IASI\\Introduction to .Net\\Curs3Ej1\\Curs3Ej1\\Application\\DTOs\\BookDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\BookDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T22:45:25.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\OneDrive\\Escritorio\\IASI\\Introduction to .Net\\Curs3Ej1\\Curs3Ej1\\Domain\\Repositories\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Repositories\\IBookRepository.cs",
+              "ToolTip": "C:\\Users\\usuario\\OneDrive\\Escritorio\\IASI\\Introduction to .Net\\Curs3Ej1\\Curs3Ej1\\Domain\\Repositories\\IBookRepository.cs",
+              "RelativeToolTip": "Domain\\Repositories\\IBookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T22:41:34.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\OneDrive\\Escritorio\\IASI\\Introduction to .Net\\Curs3Ej1\\Curs3Ej1\\Domain\\Entities\\Book.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Book.cs",
+              "ToolTip": "C:\\Users\\usuario\\OneDrive\\Escritorio\\IASI\\Introduction to .Net\\Curs3Ej1\\Curs3Ej1\\Domain\\Entities\\Book.cs",
+              "RelativeToolTip": "Domain\\Entities\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T22:32:33.406Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

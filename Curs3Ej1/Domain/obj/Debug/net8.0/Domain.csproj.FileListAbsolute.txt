@@ -1,0 +1,22 @@
+C:\Users\User\Desktop\Erasmus\IntroductionTo.Net\Curse3\Curs3Ej1\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\User\Desktop\Erasmus\IntroductionTo.Net\Curse3\Curs3Ej1\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\User\Desktop\Erasmus\IntroductionTo.Net\Curse3\Curs3Ej1\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\User\Desktop\Erasmus\IntroductionTo.Net\Curse3\Curs3Ej1\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Erasmus\IntroductionTo.Net\Curse3\Curs3Ej1\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Erasmus\IntroductionTo.Net\Curse3\Curs3Ej1\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\User\Desktop\Erasmus\IntroductionTo.Net\Curse3\Curs3Ej1\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Erasmus\IntroductionTo.Net\Curse3\Curs3Ej1\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\User\Desktop\Erasmus\IntroductionTo.Net\Curse3\Curs3Ej1\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\User\Desktop\Erasmus\IntroductionTo.Net\Curse3\Curs3Ej1\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\User\Desktop\Erasmus\IntroductionTo.Net\Curse3\Curs3Ej1\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\usuario\OneDrive\Escritorio\IASI\Introduction to .Net\Curs3Ej1\Curs3Ej1\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\usuario\OneDrive\Escritorio\IASI\Introduction to .Net\Curs3Ej1\Curs3Ej1\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\usuario\OneDrive\Escritorio\IASI\Introduction to .Net\Curs3Ej1\Curs3Ej1\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\usuario\OneDrive\Escritorio\IASI\Introduction to .Net\Curs3Ej1\Curs3Ej1\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\OneDrive\Escritorio\IASI\Introduction to .Net\Curs3Ej1\Curs3Ej1\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\usuario\OneDrive\Escritorio\IASI\Introduction to .Net\Curs3Ej1\Curs3Ej1\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\usuario\OneDrive\Escritorio\IASI\Introduction to .Net\Curs3Ej1\Curs3Ej1\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\usuario\OneDrive\Escritorio\IASI\Introduction to .Net\Curs3Ej1\Curs3Ej1\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\usuario\OneDrive\Escritorio\IASI\Introduction to .Net\Curs3Ej1\Curs3Ej1\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\usuario\OneDrive\Escritorio\IASI\Introduction to .Net\Curs3Ej1\Curs3Ej1\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\usuario\OneDrive\Escritorio\IASI\Introduction to .Net\Curs3Ej1\Curs3Ej1\Domain\obj\Debug\net8.0\ref\Domain.dll
